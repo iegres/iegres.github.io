@@ -2,8 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-  font: 100% $font-stack;
-  color: $primary-color;
-  background-color: coral;
-}
+@import "custom.scss";
