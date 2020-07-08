@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import "assets/css/custom";
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
