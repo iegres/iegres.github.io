@@ -1,10 +1,6 @@
 ## Welcome to the iegres's github page!
 
-This page is under construction... But you can send me a message: ie9res@gmail.com
-
-
-
-
+This page is under construction... But you can send me a message: ie9res@gmail.com  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n
 
 You can use the [editor on GitHub](https://github.com/iegres/iegres.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
